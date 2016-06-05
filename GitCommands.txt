@@ -28,17 +28,17 @@ git init to create Repo.
 git log will show all the commit details
 
 "git add ." is a command to add all our change in our projecct ". " mean is folder
-
+	git add "filename" will add to the git repo
+	
 git commit -m  "update by amar" is the command to commit the file to git repo
 
+To check the commit log "git log" display the author and Date of commit with the Commit messgage
+ 
+ To git commit details only from single user git log --author ="Amar" 
+
+"git status" will give the status of the git repo
 
  
- 
-  
-
-
-
-
 
 
 
