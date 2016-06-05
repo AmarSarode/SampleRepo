@@ -1,0 +1,44 @@
+Git Commands
+
+Add Name in Git  in Configure command "git config --global  user.name  "Amar" " then Enter
+
+Change Email  "git config --globa user.email "amarnath.sarode@gmail.com" "  the Enter
+
+All setting git config --list to display all config file
+
+To display only one config from conifguration use " git config user.name " then enter
+
+To clear the display "clear"
+
+To help  "git help"
+
+display in HTML "git help commit"
+pwd is the display the path 
+
+cd  ~ will take to home directory
+
+cd .. back one directory
+
+ls will list all the folder
+
+cd amar foword on directory
+
+git init to create Repo.
+
+git log will show all the commit details
+
+"git add ." is a command to add all our change in our projecct ". " mean is folder
+
+git commit -m  "update by amar" is the command to commit the file to git repo
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
