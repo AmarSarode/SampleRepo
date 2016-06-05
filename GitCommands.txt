@@ -38,6 +38,14 @@ To check the commit log "git log" display the author and Date of commit with the
 
 "git status" will give the status of the git repo
 
+How to view the changes in the repo
+
+"git diff" to show the difference b/w the present version and the committed version
+
+git diff --staged compare with working copy and the staging copy (which is about get committed)
+
+
+
  
 
 
